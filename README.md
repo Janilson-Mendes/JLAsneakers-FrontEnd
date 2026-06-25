@@ -157,7 +157,7 @@ Foram adotadas algumas práticas de acessibilidade:
 Adicionar após a publicação:
 
 ```text
-https://github.com/SEU-USUARIO/jl-sneakers
+https://github.com/Janilson-Mendes/JLAsneakers-FrontEnd.git
 ```
 
 ### Site Publicado
@@ -165,7 +165,7 @@ https://github.com/SEU-USUARIO/jl-sneakers
 Adicionar após a publicação:
 
 ```text
-https://SEU-USUARIO.github.io/jl-sneakers/
+https://janilson-mendes.github.io/JLAsneakers-FrontEnd/
 ```
 
 ---
